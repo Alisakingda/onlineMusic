@@ -1,9 +1,6 @@
 # Vue2.0全家桶-- Music（1.0）
 **vue + vue-router + vuex + axios**
 
-
-**在线演示**👉 [轻听](https://music.gesangs.com) *请切换至手机端模式*
-
 ## Build Setup
 
 ``` bash
