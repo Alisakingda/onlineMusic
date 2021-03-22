@@ -1,7 +1,7 @@
 <template>
   <div>
-    <v-header></v-header>
-      <router-view></router-view>
+    <!-- <v-header></v-header>
+      <router-view></router-view> -->
     <v-play @showLists="showplaylist"></v-play>
     <transition name="fade">
       <div class="dialog" v-show="dialogShow">{{ this.dialogMsg }}</div>
